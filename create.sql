@@ -1,4 +1,4 @@
-REATE TABLE publisher(
+CREATE TABLE publisher(
 	id INTEGER PRIMARY KEY,
 	name TEXT,
 	country TEXT
